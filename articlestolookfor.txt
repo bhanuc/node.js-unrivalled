@@ -1,0 +1,8 @@
+http://www.joyent.com/blog/node-js-in-production-runtime-log-snooping
+http://www.joyent.com/blog/joyents-node-js-development-and-production-practices
+www.ebaytechblog.com/2013/05/17/how-we-built-ebays-first-node-js-application/
+https://medium.com/tech-talk/e7c0b0e5ce3c
+http://readwrite.com/2013/11/21/how-nodejs-got-big#awesm=~oozzzu1zWHqoCW
+http://dshaw.github.io/2012-05-jsday/#/
+http://readwrite.com/2011/05/05/5-lessons-learned-running-node#awesm=~oozzz0MHisW1XE
+http://home.iitk.ac.in/~bhanuc/node_lect.htm
