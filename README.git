@@ -1,7 +1,31 @@
-Node.js in Production. 
+
 This book fills in the missing portions of other node.js book and talks apecifically about running node.js in production. 
 
 Timeline - 1st draft by 31 Jan 2014. 
-Targeted length - 150 pages
 
+We welcome proposals for books at any stage of development. The following guidelines are intended to assist us in evaluating your proposal, so please give us as much detail as you can, being as accurate, clear, and specific as possible.
+Provisional Title and subtitle
+Node.js in Production. 
+
+Description 
+Node.js security is tough to maintain . Deploy your application with best enterprise level security. 
+Learn Kraken , Node.js framework by paypal
+
+Table of Contents
+Include as detailed an outline as possible.
+Style
+Describe the approach and style the book takes. For instance, the book might gradually build an application, consist of a collection of real-world case studies, contain numerous shorter recipes and applications,…etc.
+Target Audience
+Describe in detail the readers your book targets, including the kind of jobs they occupy (for instance, programmers, system administrators), their areas of expertise (for example, J2EE, ASP.NET, Linux), and the level of their technical knowledge. Explain how your book would help its readers with their real world jobs, for instance, by making them more productive, teaching them better techniques for doing specific tasks…etc.
+Competition
+List the title, ISBN, author, and publisher of all potentially competing titles. 
+Unique Selling Points
+Explain how your book is different from all other potentially competing titles. The difference could be in breadth, depth, focus, approach, style, or anything else. If your book would be first to market, identify this as a unique selling point.
+Websites
+Tells us about the main communities and commercial websites that provide information, whether free or not, about the topic of the book. Also include any websites that might be interested in marketing the book.
+Completion date
+Provide us with the estimated completion dates of the first draft of each chapter. If you cannot be that specific, you may give one date for each two chapters, but do not give only the estimated completion date of the whole manuscript. The term “first draft” here refers to the stage at which you believe the manuscript would be ready for peer reviewing.
+Length of Manuscript
+Targeted length - 150 pages
+Author Biography
 Authors - Bhanu Pratap Chaudhary and Namrata Chaudhary (full bio will be added later)
