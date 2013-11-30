@@ -10,3 +10,4 @@ http://home.iitk.ac.in/~bhanuc/node_lect.htm
 
 BLog on Node.js
 http://www.nearform.com/nodecrunch/
+http://www.scoop.it/t/nodejs-code
