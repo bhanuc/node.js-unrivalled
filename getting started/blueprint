@@ -1,0 +1,35 @@
+Prerequisites
+
+Local workstation setup
+
+Write your app
+
+Declare dependencies with NPM
+
+Declare process types with Procfile
+
+Store your app in Git
+
+Deploy your application 
+
+Visit your application
+
+Dyno sleeping and scaling
+
+View the logs
+
+Setting NODE_ENV
+
+Console
+
+Advanced HTTP features
+
+Running a worker
+
+Using a PostgreSQL database
+
+Using MongoDB
+
+Using Redis
+
+Troubleshooting
