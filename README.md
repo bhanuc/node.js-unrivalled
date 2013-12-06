@@ -18,4 +18,6 @@ Coming Very soon !
 Anyone with a prior Javascript Experience should be able to pick up very easily.
 
 #Contributing 
+Although the project is currently in very inital stage, I would really love any kind of pull request . Also open a issue if you feel something is missing or wrong. 
 
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/deed.en_US.
