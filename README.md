@@ -1,10 +1,9 @@
 
-This book fills in the missing portions of other node.js book and talks specifically about running node.js in production. 
+This book fills in the missing portions of other node.js book.
+It starts from node.js basics then runs you through connect , express and finally helps to runyour node.js application in production.
 
-Timeline - 1st draft by 31 Jan 2014. 
+Timeline - 1st draft by 31 Jan 2014.
 
-Provisional Title and subtitle
-Node.js in Production. 
 
 #Description -
 Learn Node.js Framework from scratch. From connect to express.js , We have covered you entirely. 
